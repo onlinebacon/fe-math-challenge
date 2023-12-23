@@ -15,6 +15,4 @@
 ## Calculations
 
 ### Time
-$$
-GHA_{sun} = 89.592
-$$
+$GHA_{sun} = 89.592$
