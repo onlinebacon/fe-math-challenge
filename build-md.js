@@ -58,9 +58,9 @@ tableLine(lines[0]);
 tableLine(lines[1]);
 print('\n## Calculations\n');
 print('### Time');
-print('```');
+print('$$');
 print('GHA_{sun} = ', SUN_GHA_1);
-print('```');
+print('$$');
 
 console.log(output);
 fs.writeFileSync('./script.md', output);

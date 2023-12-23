@@ -15,6 +15,6 @@
 ## Calculations
 
 ### Time
-```
+$$
 GHA_{sun} = 89.592
-```
+$$
